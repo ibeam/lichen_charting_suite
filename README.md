@@ -1,4 +1,4 @@
 lichen_charting_suite
 =====================
 
-HTML5 charting components
+HTML5 charting components for data visualization
